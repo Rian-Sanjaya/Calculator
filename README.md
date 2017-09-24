@@ -1,1 +1,1 @@
-# Calculator
+Calculator using vanilla javascript only.
