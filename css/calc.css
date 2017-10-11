@@ -3,6 +3,11 @@ body {
 	margin: 0;
 }
 
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
 .calc-container {
 	width: 200px;
 	margin: 50px auto 0;
